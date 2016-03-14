@@ -14,7 +14,7 @@ Easy:  composer require thecodingcompany/youtube
 ```
 chmod 0777 public/video
 
-$file = YouTube::downloadYTVideo("mHeK0Cwr9sg");
+$file = YouTubeClass::downloadYTVideo("mHeK0Cwr9sg");
 echo $file; <-- Will give you the full public path.
 
 ```

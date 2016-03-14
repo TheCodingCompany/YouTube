@@ -10,7 +10,7 @@ namespace TheCodingCompany;
  * 
  * @example
  * 
- * $file = YouTube::downloadYTVideo()
+ * $file = YouTubeClass::downloadYTVideo()
  */
 
 /**
