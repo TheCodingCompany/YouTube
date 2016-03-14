@@ -1,0 +1,6 @@
+{
+    "name": "TheCodingCompany/YouTube",
+    "require": {
+        "php": ">=5.6"
+    }
+}
