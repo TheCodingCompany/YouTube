@@ -1,5 +1,5 @@
 {
-    "name": "TheCodingCompany/YouTube",
+    "name": "thecodingcompany/youtube",
     "type": "library",
     "description": "Youtube download class for PHP 5.6",
     "keywords": ["php","youtube","download"],
