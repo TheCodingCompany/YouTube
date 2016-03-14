@@ -20,11 +20,6 @@ class YouTubeClass
 {
     
     /**
-     * Force static use only
-     */
-    private function __construct() {}
-    
-    /**
      * Set the download location, seen from /app/
      * @var type 
      */
