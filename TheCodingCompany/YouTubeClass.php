@@ -1,6 +1,4 @@
 <?php
-namespace TheCodingCompany;
-
 /**
  * Youtube video downloader
  * 
